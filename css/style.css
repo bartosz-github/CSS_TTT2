@@ -25,3 +25,9 @@ header {
 footer {
     background-color: lightcoral;
 }
+
+a {
+    color: darkcyan;
+    background-color: peachpuff;
+    text-decoration: none;
+}
