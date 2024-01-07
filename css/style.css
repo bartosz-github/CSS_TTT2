@@ -12,3 +12,16 @@ body {
     background-color: slategrey;
     /* background: none; */
 }
+
+p {
+    color: darkblue;
+    font-size: 26px;
+}
+
+header {
+    background-color: lightcoral;
+}
+
+footer {
+    background-color: lightcoral;
+}
