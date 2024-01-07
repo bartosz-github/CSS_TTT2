@@ -1,4 +1,14 @@
+/*
+* {
+    background-color: steelblue;
+    margin: 0;
+    padding: 0;
+    color: slateblue;
+}
+*/
+
 
 body {
-    background-color: slategrey; background: none;
+    background-color: slategrey;
+    /* background: none; */
 }
