@@ -51,12 +51,12 @@ ol li{
 }
 
 
-ul li {
+ul li { /* so annoying */
     list-style: none;
 }
 
 li:hover {
-    cursor: pointer;
+    cursor: none;
 }
 
 #education {
