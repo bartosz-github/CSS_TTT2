@@ -51,6 +51,11 @@ ol li{
 }
 
 
+ul li {
+    list-style: none;
+}
+
+
 #education {
 	border: 3px solid red;
 }
