@@ -55,6 +55,9 @@ ul li {
     list-style: none;
 }
 
+li:hover {
+    cursor: pointer;
+}
 
 #education {
 	border: 3px solid red;
