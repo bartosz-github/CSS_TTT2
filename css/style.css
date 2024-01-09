@@ -30,6 +30,11 @@ header {
     background-color: lightcoral;
 }
 
+header p {
+    background-color: snow;
+    border-bottom: 1px solid gray;
+}
+
 footer {
     background-color: lightcoral;
 }
