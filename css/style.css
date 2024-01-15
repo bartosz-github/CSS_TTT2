@@ -31,7 +31,7 @@ header {
 }
 
 header p {
-    background-color: snow;
+    background-color: snow; 
     border-bottom: 1px solid gray;
 }
 
